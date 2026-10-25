@@ -1,14 +1,28 @@
 # Scicalc
 
- Scicalc is a scientific calculator inspired by the TI 84 calculator. It features the rp2350a mcu with the RP Rm2 radio module for bluetooth and wifi connectivity which are essential in daily life. It has a 2 inch tft lcd display which had bright colors and has a in built rechargable battery.
- 
- # Features
+ Scicalc is a scientific calculator inspired by the TI 84 calculator. It features the rp2350a mcu with the RP Rm2 radio module for bluetooth and wifi connectivity which are essential in daily life. It has a 2 inch tft lcd display which had bright colors and has a in built rechargable battery. It supports 1.5A fast charging along with a modular architecture.  
 
- - Features a large 2 inch color display for advanced calculations.
- - A fast mcu for advanced calculations which is newer and faster
- - 128 mbit storage for firmware which can be updated for new features.
- - Fully custom design and Open Souce!
- - Cheap to make and helps in evolving skills.
+ The firmware for this project can be found [here](https://github.com/Keyaan-07/scicalc-fw)
+ 
+ # Features  
+
+ - Features a large 2 inch color display for advanced calculations.  
+ - A fast mcu for advanced calculations which is newer and faster.  
+ - 128 mbit storage for firmware which can be updated for new features.  
+ - Fully custom design and Open Source!  
+ - Cheap to make and helps in evolving skills.  
+
+# Images
+The 3d model looks like this:  
+![3d render isometric](/media/3d-render-isometric.png)  
+![3d render top](/media/3d-render-top.png)  
+The keycaps attach to the buttons in this manner. I had this idea after looking at bridges!  
+![towers](/media/towers.png)  
+![3d pcb](/media/pcb-kicad.png)  
+![schematic](/media/Scicalc.svg)  
+![3d render opened](/media/3d-render-opened.png)  
+
+CAD model can be found [here](https://cad.onshape.com/documents/84fe92d66eafc534d9523f7c/w/e5f687d44fa54d018b5fb56d/e/4c7f7c65e5851fcead59abe7)!! View the PCB Online [here on Kicanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FAhad732%2FScicalc%2Ftree%2Fmain%2FHardware)  
 
 BOM
 |Designator                                  |Footprint                              |Value                      |Quantity|Price|Link                                                                                 |
@@ -41,13 +55,3 @@ BOM
 |                                            |                                       |                           |Total   |74.36|                                                                                     |
 
 
-Images
-
-Schematic  
-![image](https://cdn.hackclub.com/01a17194-ce44-7054-82dc-e7f69ab100b1/paste-1792906935634.png)
-
-PCB  
-![image](https://cdn.hackclub.com/01a17196-50bf-750d-bb3c-3c8472fb8d71/paste-1792907033813.png)
-
-3d Model  
-![image](https://cdn.hackclub.com/01a17197-076d-7d03-921d-5ea7f1f55c53/paste-1792907080507.png)

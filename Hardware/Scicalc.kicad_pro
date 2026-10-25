@@ -540,6 +540,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "Scicalc.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
