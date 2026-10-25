@@ -43,11 +43,11 @@ BOM
 
 Images
 
-Schematic
+Schematic  
 ![image](https://cdn.hackclub.com/01a17194-ce44-7054-82dc-e7f69ab100b1/paste-1792906935634.png)
 
-PCB
+PCB  
 ![image](https://cdn.hackclub.com/01a17196-50bf-750d-bb3c-3c8472fb8d71/paste-1792907033813.png)
 
-3d Model
+3d Model  
 ![image](https://cdn.hackclub.com/01a17197-076d-7d03-921d-5ea7f1f55c53/paste-1792907080507.png)
