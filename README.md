@@ -5,3 +5,8 @@
  # Features
 
  - Features a large 2 inch color display for advanced calculations.
+ - A fast mcu for advanced calculations which is newer and faster
+ - 128 mbit storage for firmware which can be updated for new features.
+ - Fully custom design and Open Souce!
+ - Cheap to make and helps in evolving skills.
+ 
